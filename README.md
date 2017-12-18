@@ -37,7 +37,7 @@ To reproduce our work, clone the whole repository onto your own local machine. I
 ```
 python neural_style.py --content Pics/Content/boston.jpg --styles Pics/Styles/composition_vii.jpg --iterations 500 --output [your output path and output name]
 ```
-Please make sure you download the [pre-trained VGG19 mat model](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat) into the 'pretrained_VGG19' folder, and then run above code.
+Please make sure you download the [pre-trained VGG19 mat model](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat) into the `pretrained_VGG19` folder, and then run above code.
 
 ### Contribution statement:
  All team members contributed equally in all stages of this project. All team members approve our work presented in this repository including this contributions statement. 
