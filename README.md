@@ -17,14 +17,14 @@
 
 ### File Description:
 
-+ 'neural_style.py' : main function to achieve content and style inputting, image synthesis, optimization and synthetic image generation 
++ `neural_style.py` : main function to achieve content and style inputting, image synthesis, optimization and synthetic image generation 
 
-+ 'synthesis.py' : generate images which mix content with style
++ `synthesis.py` : generate images which mix content with style
 
-+ 'style_layer_cal.py' : calculate style layer weights 
-+ 'feature_cal.py' : extract features of content and style in certain layers of CNN
-+ 'total_loss.py' : compute total loss function which consists of content loss and style loss, and implement noise-reduce optimization
-+ 'vgg.py' : provide VGG19-Networks
++ `style_layer_cal.py` : calculate style layer weights 
++ `feature_cal.py` : extract features of content and style in certain layers of CNN
++ `total_loss.py` : compute total loss function which consists of content loss and style loss, and implement noise-reduce optimization
++ `vgg.py` : provide VGG19-Networks
 
 ### Outlook
 
