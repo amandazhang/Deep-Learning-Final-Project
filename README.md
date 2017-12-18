@@ -33,13 +33,12 @@ Plots: There will be four interacitve density plots based on the filtered data. 
 
 ### Outlook
 
-![Output](Pics/Outputs/boston_composition.jpg)
+![Output](Pics/Outputs/Mixed.jpg)
 
-![screenshot](doc/Plot.png)
 
 ### Note 
 To reproduce our work, clone the whole repository onto your own local machine and then set the working directory to [`app`] folder, in your R console, run this code:
-```Python
+```
 python neural_style.py --content Pics/Content/boston.jpg --styles Pics/Styles/composition_vii.jpg --iterations 500 --output [your output path and output name]
 ```
 
